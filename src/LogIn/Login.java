@@ -87,7 +87,6 @@ public class Login  {
 					        	
 					        }else {
 					        	JOptionPane.showMessageDialog(frame, "please check Yor id or password", "Error!!", JOptionPane.ERROR_MESSAGE);
-					        	
 					        }
 					  }
 					 
